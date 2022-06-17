@@ -14,22 +14,28 @@ border-radius: 100px;
 .GREEN{
     color: maroon;
     background: burlywood;
+    width: fixed
 }
 .ylow{
     color: blueviolet;
     background-color: black;
+     width: fixed;
+    
 }
 .tir{
     color: violet;
     background: lightgreen;
+    width: fixed;
 }
 .hjil{
     color: khaki;
     background: black;
+  width: fixed;
 }
 .rawfood{
     color: aquamarine;
     background: lawngreen;
+     width: fixed
 }
 .aboutgre{
 
