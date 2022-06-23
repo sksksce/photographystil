@@ -1,4 +1,21 @@
-  .img1{
+  }
+.title{
+  background: #0D47A1;
+  color: #EF9A9A;
+  border-radius: 60px;
+ 
+}
+.about{
+  width: 550px;
+  background: #F50057;
+  color: #E8EAF6;
+  border-radius: 30px;
+}
+.buttonpre{
+  background: #FF80AB;
+}
+
+.img1{
 border-radius: 100px;
 }
 .partyfun{
